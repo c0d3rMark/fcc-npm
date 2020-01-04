@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mark",
+	"description":"FCC course",
+	"license": "MIT",
+	"version": "1.0",
+	"keywords": ["relevant", "keywords", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
